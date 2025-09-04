@@ -1,5 +1,5 @@
 {
-  "name": "com.Antoine.SerializableTypes",
+  "name": "com.antoine.serializabletypes"
   "version": "1.0.0",
   "displayName": "Serializable Types",
   "description": "Allow Type selection via dropdown in the inspector.",
@@ -10,4 +10,5 @@
     "email": "antoinevollet.pro@gmail.com"
   }
 }
+
 
