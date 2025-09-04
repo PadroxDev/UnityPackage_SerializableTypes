@@ -1,0 +1,12 @@
+{
+  "name": "com.Antoine.SerializableTypes",
+  "version": "1.0.0",
+  "displayName": "Serializable Types",
+  "description": "Allow Type selection via dropdown in the inspector.",
+  "unity": "6000.3",
+  "unityRelease": "0a5",
+  "author": {
+    "name": "Antoine",
+    "email": "antoinevollet.pro@gmail.com",
+  }
+}
